@@ -5,7 +5,7 @@
 
   
 
-## I'm a Full Stack Developer!
+## I'm a Front End Developer!
 
   
 
